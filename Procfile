@@ -1,1 +1,1 @@
-worker: node runner.js
+worker: npm i && node runner.js
