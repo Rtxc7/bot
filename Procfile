@@ -1,1 +1,1 @@
-node: main.js && npm i ytsr
+worker: node main.js && npm i ytsr
